@@ -3,4 +3,4 @@ The picture around a pin for the center to achieve the damping effect of the rot
 
 图片围绕大头针来回做30度摆动，直到停止
 ------------------
-![](https://github.com/lixiaoming0314/ShakeProperty/blob/master/test.gif)  
+![](https://github.com/lixiaoming0314/ShakeProperty/blob/master/shake.gif)  
